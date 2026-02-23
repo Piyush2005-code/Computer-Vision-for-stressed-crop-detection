@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# Image_Segmentation_nidar
-=======
+# Computer Vision for stressed crop detection
+---
 # Crop Stress Detection using Computer Vision
 
 ## Project Overview
@@ -83,4 +82,3 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 - The U‑Net implementation was inspired by publicly available segmentation tutorials.
 - Reference repositories: `brain-segmentation-pytorch` and `git_repo_image_segmentation` provided useful code patterns.
->>>>>>> master
